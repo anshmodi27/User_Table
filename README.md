@@ -20,7 +20,6 @@ yarn add react-toggle-dark-mode
 https://reqres.in/api/users/
 ```
 
-```
 ## Output
 <img align="left" alt="" src="./img/dark_home.png" width="28px">
 <img align="left" alt="" src="./img/dark_form.png" width="28px">
@@ -30,4 +29,3 @@ https://reqres.in/api/users/
 <img align="left" alt="" src="./img/light_mobile_form.png" width="28px">
 <img align="left" alt="" src="./img/dark_mobile_home.png" width="28px">
 <img align="left" alt="" src="./img/dark_mobile_form.png" width="28px">
-```
